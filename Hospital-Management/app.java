@@ -40,7 +40,7 @@ class startApp {
     void start() {
         System.out.println("$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$");
         System.out.println("");
-        System.out.println(" YOU ARE WELCOME TO HEMANTS'S HOSPITAL ");
+        System.out.println(" YOU ARE WELCOME TO CITY HOSPITAL ");
         System.out.println("");
         System.out.println("$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$");
         System.out.println("");
